@@ -6,12 +6,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gilbarbara/react-bot.git"
+    "url": "git+https://github.com/gilbarbara/react-money.git"
   },
   "bugs": {
-    "url": "https://github.com/gilbarbara/react-bot/issues"
+    "url": "https://github.com/gilbarbara/react-money/issues"
   },
-  "homepage": "https://github.com/gilbarbara/react-bot",
+  "homepage": "https://github.com/gilbarbara/react-money",
   "license": "MIT",
   "keywords": [
     "react",
